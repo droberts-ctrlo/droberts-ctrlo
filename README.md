@@ -2,34 +2,26 @@
 
 I have a [blog](http://davetheitguy.blog)!
 
-```
-const dave = {
-  'pronouns': 'He' | 'Him',
-  'code': ['Java', 'Kotlin', 'C#', '.NET', 'Python', 'TypeScript', 'JavaScript', 'Golang', 'Perl'],
-  'askMeAbout': ['Java', 'Kotlin', 'Spring Boot', 'Spring Cloud', 'App Dev', 'Multithreading', 'Networking', 'Perl', 'TypeScript'],
-  'technologies': [
-    'mobile': ['Kotlin', 'Android'],
-    'frontend': [
-      'JS': ['React', 'AngularJS'],
-      'TS': ['Angular', 'React'],
-      'CSS': ['SCSS', 'Bootstrap', 'CSS']
-    ],
-    'backend': [
-      'Kotlin': ['Spring Boot', 'Spring Cloud'],
-      'C#': ['.NET Core'],
-      'Golang': ['v1.18+'],
-      'Perl': ['v5', 'Dancer2']
-    ],
-    'software': [
-      'C#': ['WPF MVVM']
-    [,
-    'devOps': ['AWS', 'Docker', 'Azure', 'Kubernetes'],
-    'databases': ['MySql', 'T-SQL', 'SQLite', 'mongo', 'PostgreSQL'],
-  ],
-  'architecture': ['Microservices', 'SPA', 'Monolith'],
-  'currentProjects': [
-    'private': ['Android and Server apps for Property Inventory'],
-    'public': ['Globally Accessible Data Store']
-  ]
-};
-```
+### Who am I?
+
+Hi, I'm Dave Roberts, a developer from the south-west of England.
+
+I have been developing for around 20 years, and am well-versed in Kotlin, Java, CSS, and C#. For now (and the foreseeable future) I work professionally mainly doing Perl, JavaScript, TypeScript, and SCSS.
+
+### What am I good at?
+
+I am quite an accomplished JavaScript/Frontend engineer - I am very good at working within frameworks and with good old vanilla JavaScript, but I also have a talent for Java, Kotlin, and Perl (mainly)
+
+### What am I working on?
+
+I am working on several projects right now, the main one is The Globally Accessible Data Store (GADS) which I'm working on for [CtrlO](HTTP://www.ctrlo.com).
+I'm also creating several JavaScript libraries for use within projects, which will gradually start to show up here.
+Previously, I worked for BioRisk Ltd. in creating their (property) inventory software system; this includes an Android application for data collection, an admin portal for editing reports, and a customer portal for retrieving said reports.
+
+### What else can I do?
+
+I'm also quite good with containers, and container orchestration, as well as CI/CD, and cloud services.
+
+### Drop me a line
+
+If you want to talk to me, or ask me anything, just let me know, you can feel free to drop me a line at my [blog](https://davetheitguy.blog) or via [email](mailto:dave@davetheitguy.blog)
