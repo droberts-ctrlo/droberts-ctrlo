@@ -16,7 +16,7 @@ I am quite an accomplished JavaScript/Frontend engineer - I am very good at work
 
 I am working on several projects right now, the main one is The Globally Accessible Data Store (GADS) which I'm working on for [CtrlO](HTTP://www.ctrlo.com). I'm also creating several JavaScript libraries for use within projects, which will gradually start to show up here.
 
-Previously, I worked for BioRisk Ltd. in creating their (property) inventory software system; this includes an Android application for data collection, an admin portal for editing reports, and a customer portal for retrieving said reports.
+Previously, I worked for [BioRisk Ltd](HTTP://www.bioriskltd.co.uk). in creating their (property) inventory software system; this includes an Android application for data collection, an admin portal for editing reports, and a customer portal for retrieving said reports.
 
 ### What else can I do?
 
