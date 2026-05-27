@@ -1,7 +1,5 @@
 ## Hi there, I'm Dave Roberts, AKA Dave the IT Guy 👋
 
-I have a [blog](http://davetheitguy.blog)!
-
 ### Who am I?
 
 Hi, I'm Dave Roberts, a developer from the south-west of England.
@@ -21,7 +19,3 @@ Previously, I worked for [BioRisk Ltd](HTTP://www.bioriskltd.co.uk). in creating
 ### What else can I do?
 
 I'm also quite good with containers, and container orchestration, as well as CI/CD, and cloud services.
-
-### Drop me a line
-
-If you want to talk to me, or ask me anything, just let me know, you can feel free to drop me a line at my [blog](https://davetheitguy.blog) or via [email](mailto:dave@davetheitguy.blog)
