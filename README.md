@@ -1,4 +1,4 @@
-## Hi there, I'm Dave Roberts, AKA Dave the IT Guy 👋
+## Hi there, I'm Dave Roberts 👋
 
 ### Who am I?
 
